@@ -1,0 +1,14 @@
+{
+    "id": "{}",
+    "name": "FRDM_TESTER",
+    "type": 3,
+    "vendor": "",
+    "aliases": 
+    [
+        "TESTER"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "FRDM"
+}
